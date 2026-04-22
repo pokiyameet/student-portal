@@ -62,6 +62,11 @@ if (isset($_POST['update'])) {
            value="<?= $student['name'] ?>" required>
     <br><br>
 
+    Username:
+    <input type="text" name="username"
+           value="<?= $student['name'] ?>" required>
+    <br><br>
+
     Roll No:
     <input type="text" name="roll"
            value="<?= $student['roll_no'] ?>" required>
