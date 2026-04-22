@@ -88,7 +88,7 @@ $result = $conn->query($sql);
     </table>
 
     <br>
-    <a href="dashboard.php">Back</a>
+    <a href="dashboard.php">Back <-</a>
 
     <?php
 
